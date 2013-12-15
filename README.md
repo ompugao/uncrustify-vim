@@ -3,6 +3,16 @@ uncrustify-vim
 
 the plugin for uncrustify
 
+## configuration
+
+````
+    let g:uncrustify_cfg_file_path = "~/.uncrustify.cfg"  " path to uncrustify configuration file
+````
+
+## Usage
+```
+    :Uncrustify
+```
 
 thanks a lot, [ton1517](http://qiita.com/ton1517).
 
