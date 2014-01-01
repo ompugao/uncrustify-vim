@@ -1,0 +1,3 @@
+[submodule "uncrustify"]
+	path = uncrustify
+	url = git://uncrustify.git.sourceforge.net/gitroot/uncrustify/uncrustify
